@@ -1,0 +1,12 @@
+table{
+    width: 50%;
+}
+
+th, td {
+    border:1px solid black;
+    background-color: burlywood;
+}
+
+td {
+    background-color: antiquewhite;
+}
